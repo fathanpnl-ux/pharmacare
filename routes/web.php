@@ -173,3 +173,4 @@ Route::delete('/obat/{id}', function ($id) {
 
     return redirect('/obat')->with('success', 'Data obat berhasil dihapus!');
 });
+// Tes kolaborasi GitHub PharmaCare
